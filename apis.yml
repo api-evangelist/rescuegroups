@@ -39,7 +39,6 @@ apis:
   - name: RescueGroups
     description: "Adoption"
     humanURL: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
-    baseURL: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
     tags:
       - Animals
     properties:
